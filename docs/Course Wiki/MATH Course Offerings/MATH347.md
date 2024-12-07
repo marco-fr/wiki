@@ -17,7 +17,7 @@ This class goes more into number theory and convergence than [CS173](../CS%20Cou
 There are two possible paths to take MATH347:
 
 - An AP Calculus BC score of 4 or higher.
-- Credit in [MATH231 (Calculus)](./MATH231.md)
+- Credit in [MATH231 (Calculus 2)](./MATH231.md)
 
 ## When to Take It
 
@@ -48,7 +48,7 @@ As always, office hours are a good resource.
 
 ## Life After
 
-The topics in MATH347 are the base for all future proof-based math courses. Proof techniques such as induction are useful for [CS374](../CS%20Course%20Offerings/CS374A.md). It is a prerequisite for many 400 level math classes including but not limited to [MATH424](./MATH424.md), [MATH444](./MATH444.md), and [MATH447](./MATH447.md) (Real Analysis).
+The topics in MATH347 are the base for all future proof-based math courses. Proof techniques such as induction are useful for [CS374](../CS%20Course%20Offerings/CS374A.md). It is a prerequisite for many 400 level math classes including but not limited to [MATH424](./MATH424.md), [MATH444](./MATH444.md), and [MATH447 (Real Analysis)](./MATH447.md).
 
 
 ## Infamous Topics
